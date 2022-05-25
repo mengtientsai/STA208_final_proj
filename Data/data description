@@ -1,3 +1,3 @@
 News : clean text
-X_train, X_text : after word emEmbeddings TF-IDF 
+X_train, X_text : after word emEmbeddings TF-IDF and feature selection
 y_train, y_test : labels Fake:1, True:0
